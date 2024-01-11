@@ -35,3 +35,6 @@ const state:{count:number, name:string} = {count: 0, name: "foo"};
 foo({count:state}, 2);
 getRef({count:state})) // => 2
 ```
+
+Playground:
+https://stackblitz.com/edit/typescript-demo-ugx7jw?file=index.ts
