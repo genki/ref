@@ -37,4 +37,4 @@ getRef({count:state})) // => 2
 ```
 
 Playground:
-https://stackblitz.com/edit/typescript-demo-ugx7jw?file=index.ts
+https://stackblitz.com/edit/typescript-demo-ugx7jw?devToolsHeight=33&file=index.ts
