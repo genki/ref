@@ -33,7 +33,7 @@ export type Ref<V=any,K extends Key=Key, S=object> = {
 // Make a Ref with type checking.
 // Usage:
 //   const state = {count: 0};
-//   const ref:Ref<number> = makeRef({count:state});
+//   const ref:Ref<number> = ref({count:state});
 export const ref = <V,K extends Key,S>(ref:Ref<V,K,S>) => ref as Ref<V,K,S>
 
 // Get the only key of the Ref.
