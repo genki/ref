@@ -2,6 +2,13 @@ ref
 ===
 The ref object for TypeScript
 
+Install
+-------
+
+```sh
+npm insgall @s21g/ref
+```
+
 Usage
 -----
 
