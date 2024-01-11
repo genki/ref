@@ -1,7 +1,7 @@
 {
-  "name": "ref",
+  "name": "@s21g/ref",
   "version": "0.1.0",
-  "description": "Ref object",
+  "description": "Ref object for TypeScript",
   "main": "dist/index.js",
   "module": "dist/esm/index.es.js",
   "types": "dist/esm/index.d.ts",
